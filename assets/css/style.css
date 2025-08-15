@@ -82,7 +82,7 @@ main {
 /* Fumaça */
 .item::before {
   content: "";
-  background: url("../assets/img/smoke/smoke.png") center/cover no-repeat;
+  background: url("../img/smoke/smoke.png") center/cover no-repeat;
   opacity: 0.5;
   position: absolute;
   inset: 0;
