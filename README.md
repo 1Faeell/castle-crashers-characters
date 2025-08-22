@@ -2,6 +2,8 @@
 
 Um projeto interativo em HTML, CSS e JavaScript que exibe todos os personagens jogáveis do jogo **Castle Crashers**, incluindo informações detalhadas sobre habilidades, armas iniciais, fluxo de desbloqueio e curiosidades.
 
+## 🔍 Visualize o projeto:
+- https://1faeell.github.io./castle-crashers-characters/
 
 ## Descrição
 
